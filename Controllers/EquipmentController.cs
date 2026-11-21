@@ -1,3 +1,7 @@
+/// <summary>
+/// Retrieves all laboratory equipment.
+/// </summary>
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
