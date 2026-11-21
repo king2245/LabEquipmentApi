@@ -56,3 +56,11 @@ The database connection is configured through the `LabDbConnection` connection s
 - `Domain` – Equipment entity
 - `Migrations` – Database migration files
 - `Properties` – Application launch settings
+
+## Development
+
+This project follows a layered structure to separate API controllers,
+data access, domain models, and request contracts.
+
+The API uses dependency injection to manage services and database
+dependencies.
