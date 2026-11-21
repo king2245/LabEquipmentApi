@@ -64,3 +64,9 @@ data access, domain models, and request contracts.
 
 The API uses dependency injection to manage services and database
 dependencies.
+
+## API Usage
+
+The API can be accessed through HTTP requests using tools such as Swagger UI, Postman, or curl.
+
+Clients can use the available endpoints to manage laboratory equipment and retrieve equipment information.
