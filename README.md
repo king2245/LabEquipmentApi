@@ -70,3 +70,12 @@ dependencies.
 The API can be accessed through HTTP requests using tools such as Swagger UI, Postman, or curl.
 
 Clients can use the available endpoints to manage laboratory equipment and retrieve equipment information.
+## Project Structure
+
+The project is organized into separate folders to keep responsibilities clear:
+
+- Controllers: Handle HTTP requests and responses.
+- Contracts: Define request and response models.
+- Domain: Contains the core entities.
+- Data: Handles database-related functionality.
+- Migrations: Contains database schema changes.
